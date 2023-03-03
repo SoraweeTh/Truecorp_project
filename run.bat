@@ -1,0 +1,1 @@
+java -jar target/prepaid-catalogue-0.0.1-SNAPSHOT.jar
